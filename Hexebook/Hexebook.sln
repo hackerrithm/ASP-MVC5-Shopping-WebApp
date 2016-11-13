@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hexebook", "Hexebook\Hexebook.csproj", "{1FEB4122-6EDC-429F-A25C-869BFE879DFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hexebook.Tests", "Hexebook.Tests\Hexebook.Tests.csproj", "{60C15671-5908-4BC2-A4BC-1FF0F3EF0183}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FEB4122-6EDC-429F-A25C-869BFE879DFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FEB4122-6EDC-429F-A25C-869BFE879DFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FEB4122-6EDC-429F-A25C-869BFE879DFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FEB4122-6EDC-429F-A25C-869BFE879DFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60C15671-5908-4BC2-A4BC-1FF0F3EF0183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60C15671-5908-4BC2-A4BC-1FF0F3EF0183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60C15671-5908-4BC2-A4BC-1FF0F3EF0183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60C15671-5908-4BC2-A4BC-1FF0F3EF0183}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
